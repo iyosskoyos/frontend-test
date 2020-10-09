@@ -1,5 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## HOW TO RUN (IMPORTANT)
+
+1. Make sure you have npm and node installed.
+2. Clone this repository.
+3. Change directory to this repository using command line or your terminal.
+4. Type `npm i` to install all the node modules.
+5. You can do `npm start` here to run this project.
+6. Change directory to functions using `cd functions` then do `npm i` (MAKE SURE YOU ARE ON THE FUNCTIONS DIRECTORY).
+7. Type `node index.js` or if you have nodemon you can use `nodemon index.js`.
+
+## What inside this build?
+
+- This build using ReactJs as frontend (ES6)
+- Using Node.js as backend
+- Using Firebase Database Fire store
+
 ## Available Scripts
 
 In the project directory, you can run:
