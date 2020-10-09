@@ -7,8 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3. Change directory to this repository using command line or your terminal.
 4. Type `npm i` to install all the node modules.
 5. You can do `npm start` here to run this project.
-6. Change directory to functions using `cd functions` then do `npm i` (MAKE SURE YOU ARE ON THE FUNCTIONS DIRECTORY).
-7. Type `node index.js` or if you have nodemon you can use `nodemon index.js`.
+
+### RUN BACKEND
+1. Change directory to functions using `cd functions` then do `npm i` (MAKE SURE YOU ARE ON THE FUNCTIONS DIRECTORY).
+2. Type `node index.js` or if you have nodemon you can use `nodemon index.js`.
 
 ## What inside this build?
 
