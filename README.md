@@ -19,7 +19,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Using Firebase Database Fire store
 - Payment Method with Stripe
 - RajaOngkir API
-- You can log in using dummy account with email address `tes@gmail.com` with pass `123123`
+- You can log in using dummy account with email address `tes@gmail.com` with password `123123`
 
 ## Available Scripts
 
