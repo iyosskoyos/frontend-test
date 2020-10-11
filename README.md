@@ -16,6 +16,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - This build using ReactJs as frontend (ES6)
 - Using Node.js as backend
+- Using state management (React Context API (REDUX))
+- Using React Router for routing
 - Using Firebase Database Fire store
 - Payment Method with Stripe
 - RajaOngkir API
