@@ -17,6 +17,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - This build using ReactJs as frontend (ES6)
 - Using Node.js as backend
 - Using Firebase Database Fire store
+- Payment Method with Stripe
+- RajaOngkir API
+- You can log in using dummy account with email address `tes@gmail.com` with pass `123123`
 
 ## Available Scripts
 
