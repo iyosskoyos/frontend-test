@@ -16,3 +16,10 @@
   margin-left: 5px;
   margin-right: 5px;
 }
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .home__row {
+    flex-wrap: wrap;
+  }
+}
