@@ -1,8 +1,8 @@
-import React from 'react'
+import React, { forwardRef } from 'react'
 import '../css/CheckoutProduct.css'
 import { useStateValue } from '../StateProvider'
 
-function CheckoutProduct(props) {
+const CheckoutProduct = forwardRef((props, ref) => {
     const [state, dispatch] = useStateValue();
 
     const removeFromBasket = () => {
@@ -12,7 +12,7 @@ function CheckoutProduct(props) {
         })
     }
     return (
-        <div className="checkoutProduct">
+        <div ref={ref} className="checkoutProduct">
             <img
                 className='checkoutProduct__image'
                 alt=""
@@ -39,6 +39,6 @@ function CheckoutProduct(props) {
             </div>
         </div>
     )
-}
+})
 
 export default CheckoutProduct
